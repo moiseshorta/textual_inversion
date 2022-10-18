@@ -283,9 +283,8 @@ def main():
                     grid_count += 1
 
                 toc = time.time()
-
-    print(f"Your samples are ready and waiting for you here: \n{outpath} \n"
-          f" \nEnjoy.")
+    #print(f"Your samples are ready and waiting for you here: \n{outpath} \n"
+    #      f" \nEnjoy.")
 
 
 if __name__ == "__main__":
